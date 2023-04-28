@@ -1,3 +1,6 @@
+#Jenny Rosero
+#Module 7.2 Assignment
+
 import mysql.connector
 from mysql.connector import errorcode
 
